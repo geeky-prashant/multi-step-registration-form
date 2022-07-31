@@ -9,7 +9,7 @@
 
   <h2 align="center">Multi-Step Registration Form</h2>
 
-  In this project, I have created Multi-Step Registration Form, <br />The project is built using HTML5, CSS3 & Javascript.
+  In this project, I have created Multi-Step Registration Form, The project is built using HTML5, CSS3 & Javascript.
 
   <a href="https://geeky-prashant.github.io/multi-step-registration-form/"><strong>➥ Live Demo</strong></a>
 
